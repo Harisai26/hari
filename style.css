@@ -1,0 +1,49 @@
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 25vh;
+    background-size: cover;
+    background-size: 230%;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "caveat";
+    font-size: 36px;
+    width: 220px;
+    padding: 30px;
+}
+
+.diwali-bottom-section {
+    background-color: #e6f6ff;
+    padding: 20px;
+    text-align: center;
+    background-size: 200%;
+}
+
+.diwali-card-item {
+    background-color: white;
+    width: 140px;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 15px;
+
+}
+
+.diwali-card-name {
+    font-family: "roboto";
+    font-size: 15px;
+    color: #616e7c;
+    margin: 3px;
+}
+
+.diwali-card-image {
+    height: 70px;
+    width: 70px;
+}
+
+.diwali-card-price {
+    font-family: "roboto";
+    font-size: bold;
+    font-size: 15px;
+    font-weight: 500;
+}
